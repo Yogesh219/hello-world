@@ -1,2 +1,6 @@
 # hello-world
-getting starting up
+
+Hi humans,
+
+Yogesh here, 
+              I am just a beginner at programming language.
